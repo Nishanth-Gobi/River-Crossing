@@ -19,7 +19,8 @@ A Synchronisation problem
   -> When the boat is full, one of the people rows the boat
  
   -> Hackers and employees outside the boat will wait until the boat makes a trip to the opposite shore
-  
+
+Source: <a href="https://people.eecs.berkeley.edu/~kubitron/courses/cs162-F06/hand-outs/synch-solutions.html"> Berkley University</a>
   
 ### Program description:
 
