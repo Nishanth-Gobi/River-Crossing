@@ -3,8 +3,7 @@ A Synchronisation problem
 
 ### Program specifications:
 
-  -> Multi-threading is done using the pthreah librabry
-  -> Threads are synchronised
+  -> Multi-threading is done using the pthreah librabry (Threads are synchronised)
 
 ### Scenario description:
   
