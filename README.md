@@ -23,8 +23,8 @@ Source: <a href="https://people.eecs.berkeley.edu/~kubitron/courses/cs162-F06/ha
   
 ### Program description:
 
-  INPUT: Number of hackers, number of employees
-  OUPUT: A simulation of the hackers and employees crossing the river
+  <strong>Input: </strong> Number of hackers, number of employees </br> 
+  <strong>Output: </strong> A simulation of the hackers and employees crossing the river
   
   -> The program uses multi-threading (one thread - one person)
   
