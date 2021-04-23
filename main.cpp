@@ -131,6 +131,7 @@ void *person_arrives(void *in)
  	} 					
  						// Critical section -->
  	pthread_mutex_unlock(&lock);
+	return 0;
 }
 
 int main(int argc, char *argv[]) // ['./a.out','No_of_Hackers','No_of_Employees']
